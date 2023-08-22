@@ -21,7 +21,7 @@
    - Navigieren Sie zu dem Verzeichnis, in dem Sie das Projekt erstellen möchten.
    - Führen Sie den Befehl aus:
      ```bash
-     npx create-react-app password-manager
+     npm create-react-app password-manager
      ```
 
 3. **Navigieren Sie zum Projektverzeichnis**
